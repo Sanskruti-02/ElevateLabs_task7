@@ -16,5 +16,5 @@ This task involved assessing browser extensions for potential security threats a
 1. **Malicious_Extensions_Harm_Research.txt**  
    - A detailed summary of the types of harm malicious extensions can cause, such as data theft, keystroke logging, ad injections, and more.
 
-2. **Extension_Removal_Task_Report.txt**  
+2. **task_7.txt**  
    - A report listing the specific extensions removed, the reason for their removal, and the results observed after cleanup.
