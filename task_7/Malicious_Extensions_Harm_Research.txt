@@ -1,0 +1,31 @@
+How Malicious Browser Extensions Can Harm Users
+
+1. **Data Theft**
+   - Malicious extensions can access sensitive data like login credentials, browsing history, cookies, autofill information, and credit card numbers.
+
+2. **Keystroke Logging**
+   - Some extensions log every keystroke, potentially capturing passwords, messages, or personal data entered on websites.
+
+3. **Ad Injections and Redirections**
+   - Extensions may inject ads into web pages or redirect users to affiliate/malicious websites, often to generate revenue or spread malware.
+
+4. **Unauthorized Tracking**
+   - Extensions can track users’ online activities across multiple websites and sell this data to third parties without user consent.
+
+5. **Browser Hijacking**
+   - Some malicious add-ons change default browser settings like homepage, new tab behavior, or search engine to non-legitimate ones.
+
+6. **Backdoor Access**
+   - Extensions can serve as backdoors, allowing remote attackers to execute arbitrary code or control browser actions without the user’s knowledge.
+
+7. **Resource Exploitation**
+   - Extensions may use your system’s resources (CPU, memory, bandwidth) for cryptomining, spamming, or distributed denial-of-service (DDoS) attacks.
+
+8. **Fake Security Alerts or Pop-ups**
+   - Malicious plugins may display fake virus warnings or updates, tricking users into downloading additional malware or giving away sensitive information.
+
+9. **Session Hijacking**
+   - They can hijack active sessions by stealing cookies or tokens, giving attackers access to logged-in services like email, banking, or social media.
+
+10. **Bypassing Security Mechanisms**
+    - Some extensions can disable other security tools or browser protections, making the system more vulnerable to further attacks.

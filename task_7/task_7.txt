@@ -1,0 +1,44 @@
+Browser Extension Removal Task Report
+
+Task: Identify and remove unnecessary or suspicious browser extensions.
+
+Steps Taken:
+
+1. Opened the browser’s Extension Manager
+   - Accessed via: Chrome (chrome://extensions)
+
+2. Reviewed Installed Extensions:
+   - Total extensions installed: 6
+   - Checked each extension’s functionality and origin
+
+3. Checked Permissions and Reviews:
+   - Verified that each extension's permissions matched its intended use
+   - Read user reviews and ratings for security issues
+
+4. Identified Unused or Suspicious Extensions:
+   - Selected the following extensions for removal:
+     a. Super Screenshot Tool – Unused for over 3 months
+     b. Free VPN Proxy Unlimited – Unfamiliar origin; excessive permissions
+
+5. Removed Suspicious/Unnecessary Extensions:
+   - Used the “Remove” or “Uninstall” button next to each extension
+
+6. Restarted the Browser:
+   - Cleared cache and restarted Chrome
+
+7. Observed Performance:
+   - Noted faster page load times and no unexpected pop-ups
+
+8. Documented Changes:
+   - Extensions removed:
+     - Super Screenshot Tool
+     - Free VPN Proxy Unlimited
+
+   - Extensions kept:
+     - Grammarly for Chrome
+     - uBlock Origin
+     - Google Docs Offline
+     - LastPass Password Manager
+
+Conclusion:
+Successfully removed suspicious and unused extensions to improve browser security and performance. Regular audits will be conducted monthly.
